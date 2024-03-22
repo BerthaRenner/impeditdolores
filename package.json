@@ -1,0 +1,23 @@
+{
+  "name": "impeditdolores",
+  "version": "1.0.0",
+  "description": "resouce loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BerthaRenner/impeditdolores.git"
+  },
+  "keywords": [
+    "fis",
+    "fis3",
+    "loader"
+  ],
+  "author": "BayleeBahringer",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/BerthaRenner/impeditdolores.git/issues"
+  }
+}
